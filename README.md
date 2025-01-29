@@ -3,3 +3,5 @@ I am a GIS student with a keen interest in earth and enviromental science applic
 
 - I’m currently working on my first web GIS.
 - I’m currently learning ML in Python.
+
+Find me on LinkedIn: www.linkedin.com/in/anan-mclean 
